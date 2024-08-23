@@ -1,0 +1,19 @@
+.cart-icon {
+    position: absolute;
+    color: #000;
+}   
+    
+.cart-number{
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    top: -30px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
+    left: 10px;
+    z-index: 20;
+}
+    
+    
+  
