@@ -19,6 +19,9 @@ export default function Cart() {
   let tax = totalTax(state);
   let totalAmount = totalPrice(state);
 
+  console.log(state);
+  
+
   return (
     <Fragment>
         <Header />
